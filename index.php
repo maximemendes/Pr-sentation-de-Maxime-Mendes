@@ -229,7 +229,6 @@ Participation à la création d'un UCP (Panel de contrôle Utilisateur) permetta
                 <i>Portugal, France, Danemark, Pays-Bas, Suède, Belgique, Italie, Principauté de Monaco, Espagne, Allemagne...</i>
                 <p></p>
 
-                <a href="assets/images/portugal1.jpg" target="_blank"><img src="assets/images/portugal1.png" style="height:95px;"></a>
                 <a href="assets/images/portugal2.jpg" target="_blank"><img src="assets/images/portugal2.png" style="height:95px;"></a>
                 <a href="assets/images/italie.jpg" target="_blank"><img src="assets/images/italiep.png" style="height:95px;"></a>
                 <a href="assets/images/amsterdam.jpg" target="_blank"><img src="assets/images/amsterdamp.png" style="height:95px;"></a>
@@ -256,7 +255,7 @@ Participation à la création d'un UCP (Panel de contrôle Utilisateur) permetta
                     <h3>Par téléphone : 06 19 57 53 26</h3>
 
                     <img src="assets/images/mail.png" style="height:60px;">
-                    <h3>Email : <a href="mailto:m95.md@outlook.fr" target="_blank">m95.md@outlook.fr</a><br>Email : <a href="mailto:maxime@mendes.re" target="_blank">maxime@mendes.re</a></h3>
+                    <h3>Email principal : <a href="mailto:m95.md@outlook.fr" target="_blank">m95.md@outlook.fr</a><br>Email : <a href="mailto:maxime@mendes.re" target="_blank">maxime@mendes.re</a></h3>
 
 
                 </center>
